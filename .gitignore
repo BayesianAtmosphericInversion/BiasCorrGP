@@ -1,0 +1,24 @@
+# Virtual environments
+.venv_final/
+venv_final/
+
+.venv_req/
+venv_req/
+
+.venv_3124/
+venv_3124/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
